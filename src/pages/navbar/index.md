@@ -2,11 +2,11 @@
 templateKey: navbar
 menuItems:
   - label: home
-    linkType: internal
-    linkURL: /
+    linkType: external
+    linkURL: digd.in
   - label: about
     linkType: internal
-    linkURL: /about
+    linkURL: digd.in
   - label: past meetups
     linkType: internal
     linkURL: /meetups
