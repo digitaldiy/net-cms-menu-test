@@ -3,10 +3,10 @@ templateKey: navbar
 menuItems:
   - label: home
     linkType: internal
-    linkURL: /
+    linkURL: home
   - label: about
     linkType: internal
-    linkURL: /about
+    linkURL: about
   - label: past meetups
     linkType: internal
     linkURL: /meetups
